@@ -1,0 +1,584 @@
+﻿# eu_US
+
+############################################################
+#
+# block
+#
+############################################################
+
+fluid.IR2fluidMilk=Milk
+tile.IR2fluidMilk=Milk
+
+tile.IR2saplingRed.name=Red Oak Sapling
+tile.IR2logRed.name=Red Oak Wood
+tile.IR2leaveRed.name=Red Oak Leave
+tile.IR2saplingGold.name=Gold Birch Sapling
+tile.IR2logGold.name=Gold Birch Wood
+tile.IR2leaveGold.name=Gold Birch Leave
+item.IR2cottonRaw.name=Raw Cotton
+item.IR2seedCotton.name=Cotton Seed
+item.IR2melonLapis.name=Lapis Melon
+tile.IR2blockMelonLapis.name=Lapis Melon Block
+item.IR2seedMelonLapis.name=Lapis Melon Seed
+item.IR2wheatGlow.name=Glow Wheat
+item.IR2seedWheatGlow.name=Glow Wheat Seed
+item.IR2potatoQuartz.name=Quartz Potato
+item.IR2reedIron.name=Iron Reed
+
+tile.IR2oreTin.name=Tin Ore
+tile.IR2oreCopper.name=Copper Ore
+tile.IR2oreSilver.name=Silver Ore
+tile.IR2crustCobalt.name=Cobalt Crust
+tile.IR2crustManganese.name=Manganese Crust
+
+tile.IR2blockTin.name=Tin Block
+tile.IR2blockCopper.name=Copper Block
+tile.IR2blockSilver.name=Silver Block
+
+tile.IR2cableTin.name=RS Tin Cable
+tile.IR2cableCopper.name=RS Copper Cable
+tile.IR2cableIron.name=RS Iron Cable
+tile.IR2cableSilver.name=RS Silver Cable
+tile.IR2cableGold.name=RS Gold Cable
+tile.IR2cableAluminium.name=RS HV Cable
+tile.IR2cableNickel.name=RS HF Cable
+
+tile.IR2pipeTin.name=RS Tin Pipe
+tile.IR2pipeCopper.name=RS Copper Pipe
+tile.IR2pipeIron.name=RS Iron Pipe
+tile.IR2pipeSilver.name=RS Silver Pipe
+tile.IR2pipeGold.name=RS Gold Pipe
+tile.IR2pipeAluminium.name=RS HV Pipe
+tile.IR2pipeNickel.name=RS HF Pipe
+
+tile.IR2pipeMining.name=Mining Pipe
+
+tile.IR2generatorVLF.name=VLF Pulse Generator
+tile.IR2generatorLF.name=LF Pulse Generator
+tile.IR2generator.name=Pulse Generator
+tile.IR2generatorHV.name=HV Pulse Generator
+tile.IR2generatorHF.name=HF Pulse Generator
+tile.IR2generatorVHF.name=VHF Pulse Generator
+tile.IR2generatorVHV.name=VHV Pulse Generator
+
+tile.IR2decoVent.name=Vent Block
+tile.IR2decoZinc.name=Rusted Zinc Block
+tile.IR2fan.name=Fan
+tile.IR2ceilingLight.name=Ceiling Light
+
+tile.IR2amplifier.name=RS Amplifier
+tile.IR2modulator.name=RS Modulator
+
+tile.IR2casingStone.name=Stone Casing
+tile.IR2casingObsidian.name=Obsidian Casing
+
+tile.IR2spinningProt.name=RS Spinning Machine Null
+tile.IR2spinning.name=RS SpinningMachine
+tile.IR2spinningAdv.name=RS SpinningMachine Zwei
+
+tile.IR2redstoneFurnaceProt.name=RS Furnace Null
+tile.IR2redstoneFurnace.name=RS Furnace
+tile.IR2redstoneFurnaceAdv.name=RS Furnace Zwei
+tile.IR2redstoneFurnaceVar.name=RS Furnace Drei
+
+tile.IR2alloySmelter.name=RS Alloy Smelter
+tile.IR2alloySmelterAdv.name=RS Alloy Smelter Zwei
+
+tile.IR2crusher.name=RS Crusher
+tile.IR2crusherAdv.name=RS Crusher Zwei
+tile.IR2crusherVar.name=RS Crusher Drei
+
+tile.IR2lumberMachine.name=RS Lumber
+tile.IR2loom.name=RS Loom
+tile.IR2extractor.name=RS Extractor
+tile.IR2centrifuge.name=RS Centrifuge
+tile.IR2assembler.name=RS Assembler
+tile.IR2dyer.name=RS Dyer
+tile.IR2chunkLoader.name=RS Chunk Loader
+tile.IR2transmitter.name=RS Transmitter
+tile.IR2transmitterWithLoader.name=RS Transmitter+Chunk Loader
+tile.IR2crafter.name=RS Auto Crafter
+tile.IR2fountain.name=RS Water Generator
+tile.IR2crucible.name=RS Crucible
+tile.IR2syntheticFurnace.name=RS Composition Furnace
+tile.IR2cheeseMaker.name=RS Cheese Maker
+tile.IR2smoker.name=RS Smoker
+tile.IR2childSorter.name=RS Sorter
+tile.IR2mixer.name=RS Mixer
+
+tile.IR2fisher.name=RS Fisher
+tile.IR2harvester.name=RS Harvester
+tile.IR2sower.name=RS Sower
+tile.IR2woodcutter.name=RS Woodcutter
+tile.IR2shearer.name=RS Shearer
+tile.IR2feeder.name=RS Feeder
+tile.IR2milkingMachine.name=RS Milking Machine
+
+tile.IR2fisherAdv.name=RS Fisher Zwei
+tile.IR2harvesterAdv.name=RS Harvester Zwei
+tile.IR2sowerAdv.name=RS Sower Zwei
+tile.IR2woodcutterAdv.name=RS Woodcutter Zwei
+tile.IR2shearerAdv.name=RS Shearer Zwei
+tile.IR2feederAdv.name=RS Feeder Zwei
+tile.IR2milkingMachineAdv.name=RS Milking Machine Zwei
+
+tile.IR2smasher.name=RS Smasher
+tile.IR2miner.name=RS Miner
+tile.IR2autoSpawner.name=RS Auto Spawner
+tile.IR2butcher.name=RS Butcher
+tile.IR2itemCollector.name=RS Item Collector
+tile.IR2loader.name=RS Loader
+tile.IR2unloader.name=RS Unloader
+tile.IR2pump.name=RS Pump
+tile.IR2shop.name=RS Vending Machine
+
+
+tile.IR2alloySmelterRusty.name=Rustic Alloy Smelter
+tile.IR2brickRusty.name=Rustic Bricks
+
+tile.IR2relay.name=Redstone Relay
+tile.IR2regulator.name=Redstone Regulator
+
+tile.IR2tankSmall.name=Small Tank
+tile.IR2tankMedium.name=Medium Tank
+tile.IR2tankLarge.name=Large Tank
+
+tile.IR2unifier.name=Ore Unifier
+
+tile.gateOR.name=RS OR Gate
+tile.gateAND.name=RS AND Gate
+tile.gateNOT.name=RS NOT Gate
+tile.gateXOR.name=RS XOR Gate
+tile.gateDiode.name=RS Diode
+tile.gateBuffer.name=RS Buffer
+tile.gateRelay.name=RS Relay
+tile.gateProgrammable.name=RS Programmable Circuit
+
+pipe.ir2.extract=Extracting
+pipe.ir2.oneway=One-Way
+pipe.ir2.sort=Sorting
+pipe.ir2.void=Void
+pipe.ir2.fluid=Fluid
+
+############################################################
+#
+# item
+#
+############################################################
+
+item.IR2appleRed.name=Red Apple
+item.IR2cottonRaw.name=Raw Cotton
+item.IR2seedCotton.name=Cotton Seeds
+item.IR2melonLapis.name=Lapis Melon
+item.IR2seedMelonLapis.name=Lapis Melon Seeds
+item.IR2wheatGlow.name=Glowing Wheat
+item.IR2seedWheatGlow.name=Glowing Wheat Seeds
+item.IR2potatoQuartz.name=Quartz Potato
+item.IR2reedIron.name=Iron Reed
+
+item.IR2dustTin.name=Tin Dust
+item.IR2dustCopper.name=Copper Dust
+item.IR2dustIron.name=Iron Dust
+item.IR2dustSilver.name=Silver Dust
+item.IR2dustGold.name=Gold Dust
+item.IR2dustManganese.name=Manganese Dust
+item.IR2dustCobalt.name=Cobalt Dust
+item.IR2dustAluminium.name=Aluminium Dust
+item.IR2dustSilicon.name=Silicon Dust
+item.IR2dustNickel.name=Nickel Dust
+item.IR2dustMagnesium.name=Magnesium Dust
+item.IR2dustWood.name=Wood Dust
+item.IR2dustCoal.name=Coal Dust
+
+item.IR2crustCobalt.name=Cobalt Crust
+item.IR2crustManganese.name=Manganese Crust
+
+item.IR2ingotTin.name=Tin Ingot
+item.IR2ingotCopper.name=Copper Ingot
+item.IR2ingotSilver.name=Silver Ingot
+item.IR2ingotManganese.name=Manganese Ingot
+item.IR2ingotCobalt.name=Cobalt Ingot
+item.IR2ingotAluminium.name=Aluminium Ingot
+item.IR2ingotSilicon.name=Silicon Ingot
+item.IR2ingotNickel.name=Nickel Ingot
+item.IR2ingotMagnesium.name=Magnesium Ingot
+
+item.IR2conductorTin.name=Tin RS Conductor
+item.IR2conductorCopper.name=Copper RS Conductor
+item.IR2conductorSilver.name=Silver RS Conductor
+item.IR2conductorIron.name=Iron RS Conductor
+item.IR2conductorGold.name=Gold RS Conductor
+item.IR2conductorManganese.name=Manganese RS Conductor
+item.IR2conductorCobalt.name=Cobalt RS Conductor
+item.IR2conductorAluminium.name=Aluminium RS Conductor
+item.IR2conductorSilicon.name=Silicon RS Conductor
+item.IR2conductorNickel.name=Nickel RS Conductor
+
+item.IR2coil.name=Coil
+item.IR2screw.name=Screw
+item.IR2bootsRubber.name=Rubber Boot
+item.IR2leather.name=Synthetic Leather
+
+item.IR2gearWood.name=Wooden Gear
+item.IR2gearStone.name=Stone Gear
+item.IR2gearIron.name=Iron Gear
+
+item.IR2primeMoverWood.name=Wooden RS Prime Mover
+item.IR2primeMoverStone.name=Stone RS Prime Mover
+item.IR2primeMoverIron.name=Iron RS Prime Mover
+
+item.IR2crystalUnitVillager.name=Crystal Unit by Villager
+item.IR2crystalUnit.name=Nether Quartz Crystal Unit
+item.IR2crystalUnitDouble.name=DF Nether Quartz Crystal Unit
+item.IR2crystalUnitAdvanced.name=Advanced Nether Quartz Crystal Unit
+item.IR2crystalUnitEnder.name=Ender Pearl Unit
+item.IR2crystalUnitCreeper.name=Creeper's Crystal Unit
+
+item.IR2multimeter.name=Redstone Multimeter
+item.IR2wrench.name=Amazing Wrench
+item.IR2hammer.name=Amazing Hammer
+
+item.IR2bookTutorial.name=The Introduction of IR3
+item.IR2bookRecipe.name=IR3 Recipe Encyclopedia
+
+item.IR2bag.name=Middle Bag
+item.IR2crystalUnitBox.name=CrystalUnit Case
+item.IR2cableBox.name=Cable Case
+
+item.IR2knife.name=Progressive Knife
+item.IR2knifeMP.name=PM Progressive Knife
+item.IR2knifeGrip.name=Knife Grip
+item.IR2knifeBlade.name=Knife Blade
+item.IR2needleInjector.name=Needle Injector
+item.IR2needle.name=Iron Needle
+item.IR2ragnarok.name=Ragnarok
+item.IR2earPad.name=Alice's Ear Pad
+item.IR2drill.name=Drill
+
+item.IR2can.name=General Purpose Can
+item.IR2canOxygen.name=Oxygen Can
+item.IR2canSoilent.name=Delicious Canned Meat
+item.IR2canYamatoni.name=Yamatoni Beef
+
+item.IR2cheese.name=Cheese
+item.IR2smokedPork.name=Smoked Pork
+item.IR2smokedBeef.name=Smoked Beef
+item.IR2smokedChicken.name=Smoked Chicken
+item.IR2smokedSalmon.name=Smoked Salmon
+
+item.IR2knittingWool.name=Woolen Yarn
+item.IR2stringCotton.name=Cotton Thread
+item.IR2cotton.name=Cotton
+item.IR2cloth.name=Cloth
+item.IR2silk.name=Spider Silk
+item.IR2flour.name=Flour
+item.IR2waterweed.name=Waterweed
+item.IR2waterproof.name=Waterproof
+item.IR2bucketRedstone.name=Melted Redstone
+
+############################################################
+#
+# info
+#
+############################################################
+
+info.cable.0=It conducts Advanced RS Signal.
+info.cable.1=It won't connect to cable which has different color.
+
+info.pipe.0=It transports item with Advanced RS Signal.
+info.pipeExtractor.0=It transports item with Advanced RS Signal.
+info.pipeExtractor.1=It extracts item from neighbor inventory.
+info.pipeExtractor.2=It pivots by right click with empty hands.
+info.pipeOneWay.0=It transports item with Advanced RS Signal.
+info.pipeOneWay.1=It transports item one-way only.
+info.pipeOneWay.2=It pivots by right click with empty hands.
+info.pipeSorting.0=It transports item with Advanced RS Signal.
+info.pipeSorting.1=It sorts items.
+info.pipeSorting.2=It opens by right click with empty hands.
+info.pipeVoid.0=It transports item with Advanced RS Signal.
+info.pipeVoid.1=It clears items.
+info.pipeFluid.0=It transports fluid with Advanced RS Signal.
+info.pipeFluidExtractor.0=It transports fluid with Advanced RS Signal.
+info.pipeFluidExtractor.1=It extracts fluid from neighbor inventory.
+info.pipeFluidVoid.0=It transports fluid with Advanced RS Signal.
+info.pipeFluidVoid.1=It clears fluid.
+
+info.machine.0=It operates by Advanced RS Signal.
+info.machine.1=It needs casings to place.
+
+info.generator.0=It generates Advanced RS Signal.
+info.generator.1=It don't operate if it is powered.
+info.generator.2=It don't need crystal unit for operating.
+info.amplifier.0=It amplifies Advanced RS Signal by RS Block.
+info.amplifier.1=It attenuates Advanced RS Signal by coil.
+info.modulator.0=It modulates Advanced RS Signal by coil.
+info.modulator.1=It attenuates Advanced RS Signal by coil.
+
+info.alloySmelterRusty.0=It makes tin,copper,iron RS conductor.
+info.alloySmelterRusty.1=It needs 4 redstones for smelting.
+info.alloySmelterRusty.2=It needs coal or charcoal for smelting.
+info.alloySmelterRusty.3=y0: XXX  y1:XXX  X:Rustic Bricks
+info.alloySmelterRusty.4=     XzX     XXX  z:Rustic Alloy Smelter
+info.alloySmelter.0=It makes metals RS conductor.
+info.alloySmelter.1=It needs 4 redstones for smelting.
+info.alloySmelterAdv.0=It makes metals RS conductor.
+info.alloySmelterAdv.1=It needs 2 redstones for smelting.
+
+info.spinningProt.0=It spins 4 wools into woolen yarn.
+info.spinningProt.1=Maybe it fails in spinning.
+info.spinning.0=It spins 4 wools into woolen yarn.
+info.spinningAdv.0=It spins 2 wools into woolen yarn.
+
+info.redstoneFurnaceProt.0=Maybe it fails in smelting.
+info.redstoneFurnaceAdv.0=It can smelt simultaneously 2 items.
+info.redstoneFurnaceVar.0=It can smelt simultaneously 2 items.
+
+info.crusher.0=It crushes item.
+info.crusher.1=Maybe it generates a by-product.
+info.crusherAdv.0=It crushes item.
+info.crusherAdv.1=Maybe it generates a by-product.
+info.crusherAdv.2=It generates more by-product.
+
+info.lumber.0=It processes more efficiently timber.
+info.loom.0=It weaves cloth from yarn.
+info.extractor.0=It extracts redstone from various items.
+info.assembler.0=It creates a part with less material.
+info.dyer.0=It dyes cables or wools.
+info.dyer.1=It can operate 8 dyeing from 1 dyestuff.
+info.crafter.0=It crafts a item automatically.
+info.fountain.0=It generates water.
+info.crucible.0=It generates magma from cobble stone.
+info.syntheticFurnace.0=It makes something new.
+info.syntheticFurnace.1=Be careful to overuse of materials.
+info.childSorter.0=It needs 3*3 space behind.
+info.childSorter.1=It sorts child cattle within 3*3 blocks.
+info.smoker.0=It needs wood.
+info.smoker.1=It smokes a food.
+info.mixer.0=It mixing materials.
+info.cheeseMaker.0=It makes milk cheese.
+info.mayoMaker.0=It makes egg mayo.
+info.chunkLoader.0=It keeps chunk.
+info.transmitter.0=It transmits a item.
+info.transmitter.1=It keeps chunk.
+info.pump.0=It sucks fluid.
+info.IR2shop.0=It sells useful goods.
+
+info.fisher.0=It needs being established on top of 3m water.
+info.fisher.1=Maybe it fails in fishing.
+info.harvester.0=It harvests crops up to 3*4m.
+info.woodcutter.0=It cuts down trees up to 4m.
+info.woodcutter.1=It cuts down trees which adjoins target.
+info.shearer.0=It shears wool from sheep within 3*3 blocks.
+info.sower.0=It sows various seeds up to 3*4m.
+info.sower.1=It can plant flower and sapling.
+info.feeder.0=It feeds animals within 3*3 blocks.
+info.feeder.1=It can feed simultaneously 2 animals.
+info.milking.0=It gets milk from cow within 3*3 blocks.
+
+info.fisherAdv.0=It needs being established on top of 3m water.
+info.fisherAdv.1=Maybe it fails in fishing.
+info.harvesterAdv.0=It harvests crops up to 3*8m.
+info.woodcutterAdv.0=It cuts down trees up to 8m.
+info.woodcutterAdv.1=It cuts down trees which adjoins target.
+info.shearerAdv.0=It shears wool from sheep within 5*5 blocks.
+info.sowerAdv.0=It sows various seeds up to 3*8m.
+info.sowerAdv.1=It can plant flower and sapling.
+info.feederAdv.0=It feeds animals within 5*5 blocks.
+info.feederAdv.1=It can feed simultaneously 2 animals.
+info.milkingAdv.0=It gets milk from cow within 5*5 blocks.
+
+info.smasher.0=It breaks block in front of it.
+info.miner.0=It mines a resouce from underground.
+info.autoSpawner.0=It nurtures a mob from a material.
+info.autoSpawner.1=Maybe it fails in nurturing.
+info.autoSpawner.2=It has different no-consumption material rate by input frequency.
+info.butcher.0=It attacks a mob within limit of 3*3 square meter.
+info.butcher.1=Maybe it generates bottles o' enchanting.
+info.itemCollector.0=It collects a item.
+info.itemCollector.1=It has different collecting range by input frequency.
+info.loader.0=It loads a item into an entity within 5*1 blocks.
+info.unloader.0=It unloads a item from an entity within 5*1 blocks.
+
+info.relay.0=It conducts Advanced RS Signal if it is powered.
+info.regulator.0=It converts Advanced RS Signal into RS Signal.
+info.regulator.1=It has different RSS conversion rate by input frequency.
+
+info.multimeter.0=It measures RS Signal.
+info.wrench.0=It removes a RS Machine by right click.
+info.wrench.1=It pivots a pipe by right click.
+info.hammer.0=It sets no-connection side to pipe.
+info.canOxygen.0=It supplies oxygen.
+info.bag.0=It has 5*3 inner inventory.
+
+info.crystalUnit.0=It can be used as crystal unit.
+
+info.knife.0=It is damaged while you hold it.
+info.knifeGrip.0=You can attach blade by right click.
+info.needleInjector.0=It injects needles.
+info.needleInjector.1=It needs needle in your inventory.
+info.drill.0=It needs crystal unit.
+info.drill.1=You can attach crystal unit by right click.
+
+info.IR2tankSmall.0=It stores the fluid of 32,000[mb] at the maximum.
+info.IR2tankMedium.0=It stores the fluid of 128,000[mb] at the maximum.
+info.IR2tankLarge.0=It stores the fluid of 512,000[mb] at the maximum.
+
+info.IR2unifier.0=It unifies ores.
+
+info.ragnarok.0=It causes the end.
+info.ragnarok.1=The end visited.
+
+info.jactInTheBox.0=It contains a item.
+
+info.tutanaga.0="Tin is the place of the zinc ;)"
+info.tutanaga.1=-Author-
+
+info.artifact.0=*It's valuable goods*
+
+info.IR2words.0="Thank you for playing."
+info.IR2words.1="You've got a nice bag!"
+info.IR2words.2="Thank you for playing."
+info.IR2words.3="You've got a nice bag!"
+info.IR2words.4="Thank you for playing."
+
+info.IR2soilent.0="I would like to but no thanks."
+
+info.IR2alice.0="I want you to keep even my heart."
+
+shop.ir2.shop=RS Vending Machine
+
+############################################################
+#
+# gui
+#
+############################################################
+
+gui.generatorLF=VLF Pulse Generator
+gui.generatorLFAdv=LF Pulse Generator
+gui.generator=Pulse Generator
+gui.generatorHF=HF Pulse Generator
+gui.generatorHFAdv=VHF Pulse Generator
+
+gui.crystalUnit=Crystal Unit
+
+gui.amplifier=RS Amplifier
+gui.input=Input
+gui.output=Output
+
+gui.spinningProt=Prototype RS SpinningMachine
+gui.spinning=RS SpinningMachine
+gui.spinningAdv=Advanced RS SpinningMachine
+
+gui.redstoneFurnaceProt=Prototype RS Furnace
+gui.redstoneFurnace=RS Furnace
+gui.redstoneFurnaceAdv=Advanced RS Furnace
+
+gui.alloySmelterRusty=Rustic Alloy Smelter
+gui.alloySmelter=RS Alloy Smelter
+gui.alloySmelterAdv=Advanced RS Alloy Smelter
+
+gui.lumber=RS Lumber
+gui.loom=RS Loom
+gui.crusher=RS Crusher
+gui.extractor=RS Extractor
+gui.centrifuge=RS Centrifuge
+gui.assembler=RS Assembler
+gui.dyer=RS Dyer
+
+gui.fisher=RS Fisher
+gui.harvester=RS Harvester
+gui.woodcutter=RS Woodcutter
+gui.shearer=RS Shearer
+gui.sower=RS Sower
+gui.feeder=RS Feeder
+gui.smasher=RS Smasher
+gui.miner=RS Miner
+gui.autoSpawner=RS Auto Spawner
+gui.butcher=RS Butcher
+gui.itemCollector=RS Item Collector
+
+gui.boring=RS BoringMachine
+
+gui.pipeSorting=Sorting Pipe
+
+gui.direction.0=Bottom
+gui.direction.1=Top
+gui.direction.2=North
+gui.direction.3=South
+gui.direction.4=West
+gui.direction.5=East
+
+############################################################
+#
+# entity
+#
+############################################################
+
+entity.needle.name=Needle
+
+
+############################################################
+#
+# achievement
+#
+############################################################
+
+achievement.getCasingStone=Rarefied Benchmarking
+achievement.getCasingStone.desc=Craft a stone casing
+achievement.getCasingObsidian=Monochrome!
+achievement.getCasingObsidian.desc=Craft a obsidian casing
+
+achievement.getKnittingWool=A Lot of Knitting Wools
+achievement.getKnittingWool.desc=Spin a knitting wool
+achievement.getConductorTin=Predawn
+achievement.getConductorTin.desc=Smelt a tin RS conductor
+achievement.getPrimeMoverWood=RS Power Revolution!
+achievement.getPrimeMoverWood.desc=Craft a wooden RS prime mover
+
+achievement.getCrystalUnit=Next-generation Fuel
+achievement.getCrystalUnit.desc=Craft a nether quartz crystal unit
+achievement.getCrystalUnitVillager=A Special Product
+achievement.getCrystalUnitVillager.desc=Buy a crystal unit by villager
+achievement.getCrystalUnitAdv=Future Fuel
+achievement.getCrystalUnitAdv.desc=Craft an advanced nether quartz crystal unit
+
+achievement.getAdvancedFurnace=Double Hot Topic
+achievement.getAdvancedFurnace.desc=Craft an advanced RS furnace
+
+achievement.getGeneratorVLF=Perpetual-motion!?
+achievement.getGeneratorVLF.desc=Craft a VLF pulse generator
+achievement.getGeneratorVHF=Ultimate Power Source
+achievement.getGeneratorVHF.desc=Craft a VHF pulse generator
+
+achievement.challengeToLimit=Challenge To The Limit
+achievement.challengeToLimit.desc=Get 256 RSS from RS apmlifier
+achievement.erste=Erste!
+achievement.erste.desc=Attack and destroy a monster with PM progressive knife
+achievement.aLotOfGear=A Cog in The Wheel
+achievement.aLotOfGear.desc=Own three types of gear each 64 or more
+
+############################################################
+#
+# book
+#
+############################################################
+
+book.IR2tutorial.title=The Introduction of IR2
+book.IR2tutorial.p0=Sorry. This book is Japanese Language only.
+book.IR2tutorial.p1=*null*
+book.IR2tutorial.p2=*null*
+book.IR2tutorial.p3=*null*
+book.IR2tutorial.p4=*null*
+book.IR2tutorial.p5=*null*
+book.IR2tutorial.p6=*null*
+book.IR2tutorial.p7=*null*
+book.IR2tutorial.p8=*null*
+book.IR2tutorial.p9=*null*
+
+
+book.IR2recipe.title=IR2 Recipe Encyclopedia
+book.IR2recipe.spinning=Spinning machine spins wools into a knitting wool.$Amount of wool for spinning dependences grade of machine. 4 in prototype or normal machine, 2 in advanced machine.$note:Maybe prototype spinning machine fails in spinning at 10%%.
+book.IR2recipe.alloying=Alloy Smelter makes metal ingot into RS conductor.$Amount of wool for smelting dependences grade of machine. 8 in rustic alloy smelter, 4 in normal machine, 2 in advanced machine. Rustic alloy smelter needs coal or charcoal as fuel.
+book.IR2recipe.weaving=Loom weavs a cloth from yarns. Amount of material dependences product.
+book.IR2recipe.crushing=Crusher crushes a material.
+book.IR2recipe.extracting=Extractor extracts redstone from a item. It extracts 2 redstones from RS conductor.

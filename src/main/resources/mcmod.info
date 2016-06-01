@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jp-plusplus-ir2",
+  "name": "Industrial Revolution by Redstone Rebooted",
+  "description": "Enjoy another industrial revolution :)",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=25044",
+  "updateUrl": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=25044",
+  "authorList": ["F(Twitter:@plusplus_san)"],
+  "credits": "",
+  "logoFile": "assets/jp-plusplus-ir2/textures/ir3.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
